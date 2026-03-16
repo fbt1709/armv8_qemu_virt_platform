@@ -1,0 +1,4 @@
+lib/efi_selftest/efi_selftest_register_notify.c:47:20:notify	48	static
+lib/efi_selftest/efi_selftest_register_notify.c:123:12:execute	128	static
+lib/efi_selftest/efi_selftest_register_notify.c:74:12:setup	48	static
+lib/efi_selftest/efi_selftest_register_notify.c:103:12:teardown	32	static

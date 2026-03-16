@@ -1,0 +1,2 @@
+test/lib/uuid.c:34:12:lib_test_uuid_to_le	224	static
+test/lib/uuid.c:120:12:lib_test_dynamic_uuid	336	static

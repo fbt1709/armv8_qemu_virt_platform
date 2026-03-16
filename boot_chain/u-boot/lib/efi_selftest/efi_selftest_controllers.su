@@ -1,0 +1,8 @@
+lib/efi_selftest/efi_selftest_controllers.c:75:28:supported	64	static
+lib/efi_selftest/efi_selftest_controllers.c:457:12:teardown	32	static
+lib/efi_selftest/efi_selftest_controllers.c:167:21:disconnect_child	48	static
+lib/efi_selftest/efi_selftest_controllers.c:197:28:stop	80	static
+lib/efi_selftest/efi_selftest_controllers.c:112:28:start	80	static
+lib/efi_selftest/efi_selftest_controllers.c:272:12:setup	32	static
+lib/efi_selftest/efi_selftest_controllers.c:41:21:count_child_controllers.constprop	64	static
+lib/efi_selftest/efi_selftest_controllers.c:315:12:execute	80	static

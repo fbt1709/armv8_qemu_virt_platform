@@ -1,0 +1,4 @@
+disk/disk-uclass.c:27:12:disk_blk_part_validate	48	static
+disk/disk-uclass.c:70:15:disk_blk_read	64	static
+disk/disk-uclass.c:113:15:disk_blk_erase	48	static
+disk/disk-uclass.c:92:15:disk_blk_write	64	static

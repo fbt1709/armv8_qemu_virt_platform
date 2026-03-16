@@ -1,0 +1,7 @@
+cmd/net.c:428:5:do_ping	32	static
+cmd/net.c:572:5:do_dns	32	static
+cmd/net.c:353:12:netboot_common	112	static
+cmd/net.c:28:12:do_bootp	0	static
+cmd/net.c:42:5:do_tftpb	0	static
+cmd/net.c:137:5:do_dhcp	0	static
+cmd/net.c:165:12:do_wget	0	static

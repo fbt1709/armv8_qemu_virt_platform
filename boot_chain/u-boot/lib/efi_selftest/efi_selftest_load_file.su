@@ -1,0 +1,5 @@
+lib/efi_selftest/efi_selftest_load_file.c:330:12:efi_st_load_file_teardown	16	static
+lib/efi_selftest/efi_selftest_load_file.c:381:12:efi_st_load_file_execute	112	static
+lib/efi_selftest/efi_selftest_load_file.c:245:28:load_file2	48	static
+lib/efi_selftest/efi_selftest_load_file.c:209:28:load_file	48	static
+lib/efi_selftest/efi_selftest_load_file.c:288:12:efi_st_load_file_setup	64	static

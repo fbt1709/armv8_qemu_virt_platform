@@ -1,0 +1,6 @@
+lib/efi_selftest/efi_selftest_watchdog.c:44:20:notify	32	static
+lib/efi_selftest/efi_selftest_watchdog.c:132:12:teardown	32	static
+lib/efi_selftest/efi_selftest_watchdog.c:172:12:execute	48	static
+lib/efi_selftest/efi_selftest_watchdog.c:70:12:setup.isra	32	static
+lib/efi_selftest/efi_selftest_watchdog.c:118:12:setup_reboot	0	static
+lib/efi_selftest/efi_selftest_watchdog.c:104:12:setup_timer	0	static

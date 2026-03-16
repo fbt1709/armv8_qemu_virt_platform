@@ -1,0 +1,4 @@
+lib/efi_selftest/efi_selftest_events.c:26:20:notify	0	static
+lib/efi_selftest/efi_selftest_events.c:74:12:teardown	32	static
+lib/efi_selftest/efi_selftest_events.c:108:12:execute	80	static
+lib/efi_selftest/efi_selftest_events.c:44:12:setup	32	static

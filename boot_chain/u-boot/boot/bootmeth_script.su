@@ -1,0 +1,5 @@
+boot/bootmeth_script.c:26:12:script_check	0	static
+boot/bootmeth_script.c:180:12:script_set_bootflow	0	static
+boot/bootmeth_script.c:246:12:script_bootmeth_bind	16	static
+boot/bootmeth_script.c:191:12:script_boot	48	static
+boot/bootmeth_script.c:155:12:script_read_bootflow	96	static

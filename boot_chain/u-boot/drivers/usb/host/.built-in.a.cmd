@@ -1,0 +1,1 @@
+cmd_drivers/usb/host/built-in.a := rm -f drivers/usb/host/built-in.a; aarch64-linux-gnu-ar rcTP drivers/usb/host/built-in.a drivers/usb/host/usb-uclass.o drivers/usb/host/usb_bootdev.o drivers/usb/host/ehci-hcd.o drivers/usb/host/ehci-pci.o drivers/usb/host/xhci.o drivers/usb/host/xhci-mem.o drivers/usb/host/xhci-ring.o drivers/usb/host/xhci-pci.o

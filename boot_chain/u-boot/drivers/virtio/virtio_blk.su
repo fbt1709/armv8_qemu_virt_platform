@@ -1,0 +1,6 @@
+drivers/virtio/virtio_blk.c:70:14:virtio_blk_do_req	208	static
+drivers/virtio/virtio_blk.c:133:14:virtio_blk_write	0	static
+drivers/virtio/virtio_blk.c:125:14:virtio_blk_read	0	static
+drivers/virtio/virtio_blk.c:184:12:virtio_blk_probe	80	static
+drivers/virtio/virtio_blk.c:149:12:virtio_blk_bind	48	static
+drivers/virtio/virtio_blk.c:140:14:virtio_blk_erase	48	static

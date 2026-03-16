@@ -1,0 +1,7 @@
+drivers/pci/pci_rom.c:47:13:board_should_run_oprom	0	static
+drivers/pci/pci_rom.c:61:13:board_should_load_oprom	0	static
+drivers/pci/pci_rom.c:66:17:board_map_oprom_vendev	0	static
+drivers/pci/pci_rom.c:210:6:setup_video	0	static
+drivers/pci/pci_rom.c:239:5:dm_pci_run_vga_bios	96	static
+drivers/pci/pci_rom.c:337:5:vesa_setup_video_priv	0	static
+drivers/pci/pci_rom.c:370:5:vesa_setup_video	48	static

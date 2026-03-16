@@ -1,0 +1,1 @@
+cmd_net/built-in.a := rm -f net/built-in.a; aarch64-linux-gnu-ar rcTP net/built-in.a net/arp.o net/bootp.o net/dns.o net/net.o net/ping.o net/tftp.o net/tcp.o net/wget.o net/eth-uclass.o net/eth_bootdev.o net/eth_common.o net/net-common.o

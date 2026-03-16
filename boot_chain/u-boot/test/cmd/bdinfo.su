@@ -1,0 +1,8 @@
+test/cmd/bdinfo.c:101:12:lmb_test_dump_region	80	static
+test/cmd/bdinfo.c:39:12:test_num_ll	32	static
+test/cmd/bdinfo.c:30:12:test_num_l	32	static
+test/cmd/bdinfo.c:157:12:bdinfo_test_all	144	static
+test/cmd/bdinfo.c:287:12:bdinfo_test_full	48	static
+test/cmd/bdinfo.c:300:12:bdinfo_test_help	48	static
+test/cmd/bdinfo.c:331:12:bdinfo_test_memory	48	static
+test/cmd/bdinfo.c:345:12:bdinfo_test_eth	48	static

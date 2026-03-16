@@ -1,0 +1,22 @@
+# 0 "arch/arm/dts/.qemu-arm.dtb.pre.tmp"
+# 0 "<built-in>"
+# 0 "<command-line>"
+# 1 "././include/linux/kconfig.h" 1
+
+
+
+# 1 "include/generated/autoconf.h" 1
+# 5 "././include/linux/kconfig.h" 2
+# 0 "<command-line>" 2
+# 1 "arch/arm/dts/.qemu-arm.dtb.pre.tmp"
+
+
+
+
+
+
+
+/dts-v1/;
+
+/ {
+};

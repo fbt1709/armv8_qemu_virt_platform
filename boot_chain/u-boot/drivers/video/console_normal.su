@@ -1,0 +1,4 @@
+drivers/video/console_normal.c:108:12:console_set_cursor_visible	80	static
+drivers/video/console_normal.c:16:12:console_set_row	96	static
+drivers/video/console_normal.c:47:12:console_move_rows	64	static
+drivers/video/console_normal.c:71:12:console_putc_xy	96	static

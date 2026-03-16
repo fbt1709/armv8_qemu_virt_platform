@@ -1,0 +1,2 @@
+fs/fs_internal.c:16:5:fs_devread	112	dynamic
+fs/fs_internal.c:96:5:fs_devwrite	128	dynamic

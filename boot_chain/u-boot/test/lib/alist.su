@@ -1,0 +1,9 @@
+test/lib/alist.c:23:12:lib_test_alist_init	64	static
+test/lib/alist.c:70:12:lib_test_alist_get	80	static
+test/lib/alist.c:109:12:lib_test_alist_has	64	static
+test/lib/alist.c:145:12:lib_test_alist_ensure	96	static
+test/lib/alist.c:200:12:lib_test_alist_add	112	static
+test/lib/alist.c:245:12:lib_test_alist_next	112	static
+test/lib/alist.c:297:12:lib_test_alist_for_each	112	static
+test/lib/alist.c:381:12:lib_test_alist_empty	96	static
+test/lib/alist.c:412:12:lib_test_alist_filter	112	static

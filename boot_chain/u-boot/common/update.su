@@ -1,0 +1,2 @@
+common/update.c:82:12:update_flash_protect	80	static
+common/update.c:215:5:update_tftp	144	static

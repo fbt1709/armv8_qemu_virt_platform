@@ -1,0 +1,12 @@
+lib/efi_loader/efi_var_mem.c:34:1:efi_var_mem_compare	0	static
+lib/efi_loader/efi_var_mem.c:214:1:efi_var_mem_notify_virtual_address_map	16	static
+lib/efi_loader/efi_var_mem.c:75:19:efi_var_entry_len	32	static
+lib/efi_loader/efi_var_mem.c:257:1:efi_var_collect_mem	80	static
+lib/efi_loader/efi_var_mem.c:85:2:efi_var_mem_find	32	static
+lib/efi_loader/efi_var_mem.c:356:1:efi_get_next_variable_name_mem	80	static
+lib/efi_loader/efi_var_mem.c:308:1:efi_get_variable_mem	64	static
+lib/efi_loader/efi_var_mem.c:130:20:efi_var_mem_del	32	static
+lib/efi_loader/efi_var_mem.c:157:28:efi_var_mem_ins	144	static
+lib/efi_loader/efi_var_mem.c:197:19:efi_var_mem_free	0	static
+lib/efi_loader/efi_var_mem.c:220:14:efi_var_mem_init	48	static
+lib/efi_loader/efi_var_mem.c:399:6:efi_var_buf_update	0	static

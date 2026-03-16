@@ -1,0 +1,5 @@
+boot/vbe.c:27:5:vbe_find_next_device	32	static
+boot/vbe.c:39:5:vbe_find_first_device	32	static
+boot/vbe.c:48:5:vbe_list	96	static
+boot/vbe.c:76:5:vbe_select	48	static
+boot/vbe.c:89:5:vbe_find_by_any	64	static

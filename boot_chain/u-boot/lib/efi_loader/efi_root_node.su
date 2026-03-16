@@ -1,0 +1,1 @@
+lib/efi_loader/efi_root_node.c:31:14:efi_root_node_register	112	static

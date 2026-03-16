@@ -1,0 +1,7 @@
+lib/efi_loader/efi_bootbin.c:62:21:calculate_paths	80	static
+lib/efi_loader/efi_bootbin.c:218:21:efi_binary_run_dp	96	static
+lib/efi_loader/efi_bootbin.c:33:6:efi_get_image_parameters	0	static
+lib/efi_loader/efi_bootbin.c:42:6:efi_clear_bootdev	32	static
+lib/efi_loader/efi_bootbin.c:116:6:efi_set_bootdev	64	static
+lib/efi_loader/efi_bootbin.c:258:14:efi_binary_run	96	static
+lib/efi_loader/efi_bootbin.c:334:14:efi_bootflow_run	64	static

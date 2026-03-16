@@ -1,0 +1,11 @@
+board/emulation/qemu-arm/qemu-arm.c:105:5:board_late_init	16	static
+board/emulation/qemu-arm/qemu-arm.c:120:5:dram_init	16	static
+board/emulation/qemu-arm/qemu-arm.c:140:5:dram_init_banksize	16	static
+board/emulation/qemu-arm/qemu-arm.c:147:5:board_fdt_blob_setup	0	static
+board/emulation/qemu-arm/qemu-arm.c:155:6:enable_caches	16	static
+board/emulation/qemu-arm/qemu-arm.c:167:4:flash_read8	0	static
+board/emulation/qemu-arm/qemu-arm.c:175:5:flash_read16	0	static
+board/emulation/qemu-arm/qemu-arm.c:183:5:flash_read32	0	static
+board/emulation/qemu-arm/qemu-arm.c:191:6:flash_write8	0	static
+board/emulation/qemu-arm/qemu-arm.c:196:6:flash_write16	0	static
+board/emulation/qemu-arm/qemu-arm.c:201:6:flash_write32	0	static

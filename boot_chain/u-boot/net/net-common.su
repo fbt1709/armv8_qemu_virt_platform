@@ -1,0 +1,5 @@
+net/net-common.c:21:6:copy_filename	0	static
+net/net-common.c:40:5:wget_request	0	static
+net/net-common.c:46:6:net_sntp_set_rtc	64	static
+net/net-common.c:66:5:dhcp_run	176	static
+net/net-common.c:100:5:tftpb_run	144	static

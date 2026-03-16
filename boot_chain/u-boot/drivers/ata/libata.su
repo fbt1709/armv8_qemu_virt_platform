@@ -1,0 +1,5 @@
+drivers/ata/libata.c:12:5:ata_id_n_sectors	0	static
+drivers/ata/libata.c:24:5:ata_dev_classify	0	static
+drivers/ata/libata.c:63:6:ata_id_c_string	32	static
+drivers/ata/libata.c:76:6:ata_dump_id	128	static
+drivers/ata/libata.c:139:6:ata_swap_buf_le16	0	static

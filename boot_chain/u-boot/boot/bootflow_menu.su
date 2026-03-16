@@ -1,0 +1,6 @@
+boot/bootflow_menu.c:35:5:bootflow_menu_new	80	static
+boot/bootflow_menu.c:121:5:bootflow_menu_add	144	static
+boot/bootflow_menu.c:192:5:bootflow_menu_add_all	48	static
+boot/bootflow_menu.c:218:5:bootflow_menu_setup	64	static
+boot/bootflow_menu.c:249:5:bootflow_menu_start	64	static
+boot/bootflow_menu.c:292:5:bootflow_menu_poll	48	static

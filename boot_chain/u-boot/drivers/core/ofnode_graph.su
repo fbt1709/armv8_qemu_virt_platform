@@ -1,0 +1,9 @@
+drivers/core/ofnode_graph.c:19:14:ofnode_graph_get_endpoint_count	48	static
+drivers/core/ofnode_graph.c:48:14:ofnode_graph_get_port_count	48	static
+drivers/core/ofnode_graph.c:74:8:ofnode_graph_get_port_by_id	64	static
+drivers/core/ofnode_graph.c:103:8:ofnode_graph_get_endpoint_by_regs	64	static
+drivers/core/ofnode_graph.c:139:8:ofnode_graph_get_remote_endpoint	0	static
+drivers/core/ofnode_graph.c:151:8:ofnode_graph_get_port_parent	32	static
+drivers/core/ofnode_graph.c:169:8:ofnode_graph_get_remote_port_parent	16	static
+drivers/core/ofnode_graph.c:187:8:ofnode_graph_get_remote_port	16	static
+drivers/core/ofnode_graph.c:206:8:ofnode_graph_get_remote_node	16	static

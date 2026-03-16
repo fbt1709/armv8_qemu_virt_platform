@@ -1,0 +1,1 @@
+drivers/rng/tpm_rng.c:10:12:rng_tpm_random_read	32	static

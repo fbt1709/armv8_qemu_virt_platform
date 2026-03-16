@@ -1,0 +1,6 @@
+cmd/vbe.c:112:1:complete_vbe	0	static
+cmd/vbe.c:46:12:do_vbe_info	320	static
+cmd/vbe.c:78:12:do_vbe_state	64	static
+cmd/vbe.c:24:12:do_vbe_select	64	static
+cmd/vbe.c:16:12:do_vbe_list	16	static
+cmd/vbe.c:112:1:do_vbe	48	static

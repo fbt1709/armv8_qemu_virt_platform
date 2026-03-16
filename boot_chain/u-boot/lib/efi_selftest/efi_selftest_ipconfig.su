@@ -1,0 +1,3 @@
+lib/efi_selftest/efi_selftest_ipconfig.c:155:12:teardown	0	static
+lib/efi_selftest/efi_selftest_ipconfig.c:27:12:setup	80	static
+lib/efi_selftest/efi_selftest_ipconfig.c:69:12:execute	96	static

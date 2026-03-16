@@ -1,0 +1,4 @@
+lib/efi_selftest/efi_selftest_http.c:109:13:efi_test_http_callback	0	static
+lib/efi_selftest/efi_selftest_http.c:287:12:teardown	32	static
+lib/efi_selftest/efi_selftest_http.c:39:12:setup	144	static
+lib/efi_selftest/efi_selftest_http.c:120:12:execute	384	static

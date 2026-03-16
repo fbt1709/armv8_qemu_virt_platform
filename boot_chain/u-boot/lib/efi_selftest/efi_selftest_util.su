@@ -1,0 +1,4 @@
+lib/efi_selftest/efi_selftest_util.c:79:6:efi_st_translate_char	0	static
+lib/efi_selftest/efi_selftest_util.c:94:6:efi_st_translate_code	0	static
+lib/efi_selftest/efi_selftest_util.c:105:5:efi_st_strcmp_16_8	0	static
+lib/efi_selftest/efi_selftest_util.c:114:7:efi_st_get_config_table	64	static

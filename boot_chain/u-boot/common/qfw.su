@@ -1,0 +1,8 @@
+common/qfw.c:14:5:qfw_get_dev	0	static
+common/qfw.c:19:5:qfw_online_cpus	32	static
+common/qfw.c:28:5:qfw_read_firmware_list	80	static
+common/qfw.c:69:17:qfw_find_file	48	static
+common/qfw.c:85:17:qfw_file_iter_init	32	static
+common/qfw.c:96:17:qfw_file_iter_next	0	static
+common/qfw.c:103:6:qfw_file_iter_end	0	static
+common/qfw.c:108:5:qemu_fwcfg_setup_kernel	80	static

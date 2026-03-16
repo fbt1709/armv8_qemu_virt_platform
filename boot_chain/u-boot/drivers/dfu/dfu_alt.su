@@ -1,0 +1,2 @@
+drivers/dfu/dfu_alt.c:25:5:dfu_write_by_name	64	static
+drivers/dfu/dfu_alt.c:92:5:dfu_write_by_alt	48	static

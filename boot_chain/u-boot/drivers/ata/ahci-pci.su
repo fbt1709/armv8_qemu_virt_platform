@@ -1,0 +1,2 @@
+drivers/ata/ahci-pci.c:18:12:ahci_pci_probe	0	static
+drivers/ata/ahci-pci.c:11:12:ahci_pci_bind	32	static

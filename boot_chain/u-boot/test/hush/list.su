@@ -1,0 +1,5 @@
+test/hush/list.c:13:12:hush_test_semicolon	48	static
+test/hush/list.c:25:12:hush_test_and	64	static
+test/hush/list.c:37:12:hush_test_or	48	static
+test/hush/list.c:51:12:hush_test_and_or	48	static
+test/hush/list.c:96:12:hush_test_or_and	64	static

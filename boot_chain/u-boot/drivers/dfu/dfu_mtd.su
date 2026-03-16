@@ -1,0 +1,7 @@
+drivers/dfu/dfu_mtd.c:194:12:dfu_get_medium_size_mtd	0	static
+drivers/dfu/dfu_mtd.c:273:21:dfu_polltimeout_mtd	0	static
+drivers/dfu/dfu_mtd.c:235:12:dfu_flush_medium_mtd	144	static
+drivers/dfu/dfu_mtd.c:34:12:mtd_block_op	288	static
+drivers/dfu/dfu_mtd.c:218:12:dfu_write_medium_mtd	16	static
+drivers/dfu/dfu_mtd.c:201:12:dfu_read_medium_mtd	16	static
+drivers/dfu/dfu_mtd.c:286:5:dfu_fill_entity_mtd	80	static

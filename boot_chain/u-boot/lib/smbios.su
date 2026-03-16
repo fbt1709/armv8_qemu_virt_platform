@@ -1,0 +1,14 @@
+lib/smbios.c:357:12:smbios_string_table_len	0	static
+lib/smbios.c:878:12:smbios_write_type127	48	static
+lib/smbios.c:861:12:smbios_write_type32	48	static
+lib/smbios.c:144:12:smbios_add_string	48	static
+lib/smbios.c:219:12:smbios_get_val_si	64	static
+lib/smbios.c:258:12:smbios_add_prop_si	208	static
+lib/smbios.c:367:12:smbios_write_type0	48	static
+lib/smbios.c:672:12:smbios_write_type4	64	static
+lib/smbios.c:831:12:smbios_write_type7	192	static
+lib/smbios.c:531:12:smbios_write_type3	48	static
+lib/smbios.c:474:12:smbios_write_type2	48	static
+lib/smbios.c:426:12:smbios_write_type1	80	static
+lib/smbios.c:321:5:smbios_update_version	48	static
+lib/smbios.c:909:7:write_smbios_table	144	static

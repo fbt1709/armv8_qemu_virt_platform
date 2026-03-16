@@ -1,0 +1,9 @@
+drivers/virtio/virtio_net.c:136:13:virtio_net_stop	0	static
+drivers/virtio/virtio_net.c:167:12:virtio_net_read_rom_hwaddr	64	static
+drivers/virtio/virtio_net.c:145:12:virtio_net_write_hwaddr	64	static
+drivers/virtio/virtio_net.c:122:12:virtio_net_free_pkt	64	static
+drivers/virtio/virtio_net.c:50:12:virtio_net_start	80	static
+drivers/virtio/virtio_net.c:108:12:virtio_net_recv	48	static
+drivers/virtio/virtio_net.c:76:12:virtio_net_send	128	static
+drivers/virtio/virtio_net.c:194:12:virtio_net_probe	48	static
+drivers/virtio/virtio_net.c:183:12:virtio_net_bind	16	static

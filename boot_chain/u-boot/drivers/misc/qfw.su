@@ -1,0 +1,7 @@
+drivers/misc/qfw.c:89:12:qfw_post_bind	0	static
+drivers/misc/qfw.c:128:12:qfw_bootdev_bind	16	static
+drivers/misc/qfw.c:137:12:qfw_bootdev_hunt	16	static
+drivers/misc/qfw.c:100:12:qfw_get_bootflow	32	static
+drivers/misc/qfw.c:23:13:qfw_read_entry_io.isra	0	static
+drivers/misc/qfw.c:60:6:qfw_read_entry	64	static
+drivers/misc/qfw.c:70:5:qfw_register	48	static

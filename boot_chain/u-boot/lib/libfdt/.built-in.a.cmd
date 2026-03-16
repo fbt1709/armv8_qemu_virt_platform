@@ -1,0 +1,1 @@
+cmd_lib/libfdt/built-in.a := rm -f lib/libfdt/built-in.a; aarch64-linux-gnu-ar rcTP lib/libfdt/built-in.a lib/libfdt/fdt.o lib/libfdt/fdt_ro.o lib/libfdt/fdt_wip.o lib/libfdt/fdt_strerror.o lib/libfdt/fdt_sw.o lib/libfdt/fdt_rw.o lib/libfdt/fdt_empty_tree.o lib/libfdt/fdt_addresses.o

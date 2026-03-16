@@ -1,0 +1,4 @@
+lib/efi_selftest/efi_selftest_manageprotocols.c:127:12:teardown	0	static
+lib/efi_selftest/efi_selftest_manageprotocols.c:76:12:setup	80	static
+lib/efi_selftest/efi_selftest_manageprotocols.c:48:14:find_in_buffer	0	static
+lib/efi_selftest/efi_selftest_manageprotocols.c:136:12:execute	160	static

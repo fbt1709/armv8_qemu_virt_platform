@@ -1,0 +1,6 @@
+cmd/bootdev.c:147:1:complete_bootdev	0	static
+cmd/bootdev.c:67:12:do_bootdev_info	80	static
+cmd/bootdev.c:45:12:do_bootdev_select	64	static
+cmd/bootdev.c:109:12:do_bootdev_hunt	64	static
+cmd/bootdev.c:34:12:do_bootdev_list	16	static
+cmd/bootdev.c:147:1:do_bootdev	48	static

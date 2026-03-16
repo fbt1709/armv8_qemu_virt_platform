@@ -1,0 +1,1 @@
+cmd_drivers/nvme/built-in.a := rm -f drivers/nvme/built-in.a; aarch64-linux-gnu-ar rcTP drivers/nvme/built-in.a drivers/nvme/nvme-uclass.o drivers/nvme/nvme.o drivers/nvme/nvme_show.o drivers/nvme/nvme_pci.o

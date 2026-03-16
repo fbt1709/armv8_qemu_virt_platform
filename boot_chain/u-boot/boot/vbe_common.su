@@ -1,0 +1,6 @@
+boot/vbe_common.c:24:5:vbe_get_blk	80	static
+boot/vbe_common.c:49:5:vbe_read_version	624	static
+boot/vbe_common.c:73:5:vbe_read_nvdata	32	static
+boot/vbe_common.c:118:7:h_vbe_load_read	32	static
+boot/vbe_common.c:137:5:vbe_read_fit	1056	static
+boot/vbe_common.c:378:8:vbe_get_node	0	static

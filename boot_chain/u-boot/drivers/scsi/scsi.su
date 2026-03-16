@@ -1,0 +1,7 @@
+drivers/scsi/scsi.c:372:13:scsi_ident_cpy	0	static
+drivers/scsi/scsi.c:145:13:scsi_setup_erase_ext.constprop	48	static
+drivers/scsi/scsi.c:317:14:scsi_erase	80	static
+drivers/scsi/scsi.c:190:14:scsi_read	112	static
+drivers/scsi/scsi.c:256:14:scsi_write	112	static
+drivers/scsi/scsi.c:641:5:scsi_scan_dev	304	static
+drivers/scsi/scsi.c:663:5:scsi_scan	80	static

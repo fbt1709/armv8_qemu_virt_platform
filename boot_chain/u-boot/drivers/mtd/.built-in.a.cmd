@@ -1,0 +1,1 @@
+cmd_drivers/mtd/built-in.a := rm -f drivers/mtd/built-in.a; aarch64-linux-gnu-ar rcTP drivers/mtd/built-in.a drivers/mtd/mtdcore.o drivers/mtd/mtd_uboot.o drivers/mtd/mtd-uclass.o drivers/mtd/mtdpart.o drivers/mtd/cfi_flash.o drivers/mtd/cfi_mtd.o drivers/mtd/nand/built-in.a drivers/mtd/onenand/built-in.a drivers/mtd/spi/built-in.a

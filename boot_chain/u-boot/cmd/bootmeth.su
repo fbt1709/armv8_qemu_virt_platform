@@ -1,0 +1,5 @@
+cmd/bootmeth.c:131:1:complete_bootmeth	0	static
+cmd/bootmeth.c:107:12:do_bootmeth_set	16	static
+cmd/bootmeth.c:18:12:do_bootmeth_list	96	static
+cmd/bootmeth.c:131:1:do_bootmeth	48	static
+cmd/bootmeth.c:92:12:do_bootmeth_order	32	static

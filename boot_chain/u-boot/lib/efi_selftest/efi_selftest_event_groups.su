@@ -1,0 +1,3 @@
+lib/efi_selftest/efi_selftest_event_groups.c:28:20:notify	0	static
+lib/efi_selftest/efi_selftest_event_groups.c:43:12:setup	0	static
+lib/efi_selftest/efi_selftest_event_groups.c:59:12:execute	288	static

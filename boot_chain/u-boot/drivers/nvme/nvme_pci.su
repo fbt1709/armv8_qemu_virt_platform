@@ -1,0 +1,2 @@
+drivers/nvme/nvme_pci.c:22:12:nvme_probe	32	static
+drivers/nvme/nvme_pci.c:12:12:nvme_bind	64	static

@@ -1,0 +1,3 @@
+drivers/virtio/virtio_rng.c:19:12:virtio_rng_read	112	static
+drivers/virtio/virtio_rng.c:69:12:virtio_rng_probe	32	static
+drivers/virtio/virtio_rng.c:59:12:virtio_rng_bind	16	static

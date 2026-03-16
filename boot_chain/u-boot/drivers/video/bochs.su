@@ -1,0 +1,2 @@
+drivers/video/bochs.c:100:12:bochs_video_bind	16	static
+drivers/video/bochs.c:89:12:bochs_video_probe	48	static

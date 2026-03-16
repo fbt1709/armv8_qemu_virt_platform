@@ -1,0 +1,2 @@
+lib/mbedtls/external/mbedtls/library/platform_util.c:94:6:mbedtls_platform_zeroize	32	static
+lib/mbedtls/external/mbedtls/library/platform_util.c:139:6:mbedtls_zeroize_and_free	32	static

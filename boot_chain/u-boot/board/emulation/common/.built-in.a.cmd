@@ -1,0 +1,1 @@
+cmd_board/emulation/common/built-in.a := rm -f board/emulation/common/built-in.a; aarch64-linux-gnu-ar rcTP board/emulation/common/built-in.a board/emulation/common/qemu_mtdparts.o board/emulation/common/qemu_dfu.o

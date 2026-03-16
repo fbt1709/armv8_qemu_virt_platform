@@ -1,0 +1,15 @@
+fs/ext4/ext4fs.c:55:24:get_fs	0	static
+fs/ext4/ext4fs.c:60:6:ext4fs_free_node	0	static
+fs/ext4/ext4fs.c:209:5:ext4fs_opendir	64	static
+fs/ext4/ext4fs.c:338:6:ext4fs_closedir	32	static
+fs/ext4/ext4fs.c:349:5:ext4fs_exists	48	static
+fs/ext4/ext4fs.c:366:5:ext4fs_size	0	static
+fs/ext4/ext4fs.c:379:5:ext4fs_probe	16	static
+fs/ext4/ext4fs.c:410:5:ext4fs_uuid	16	static
+fs/ext4/ext4fs.c:425:6:ext_cache_init	0	static
+fs/ext4/ext4fs.c:430:6:ext_cache_fini	32	static
+fs/ext4/ext4fs.c:71:5:ext4fs_read_file	240	static
+fs/ext4/ext4fs.c:243:5:ext4fs_readdir	240	static
+fs/ext4/ext4fs.c:371:5:ext4fs_read	0	static
+fs/ext4/ext4fs.c:392:5:ext4_read_file	80	static
+fs/ext4/ext4fs.c:436:5:ext_cache_read	48	static

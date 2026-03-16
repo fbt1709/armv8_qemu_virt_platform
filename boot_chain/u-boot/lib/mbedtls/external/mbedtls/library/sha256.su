@@ -1,0 +1,8 @@
+lib/mbedtls/external/mbedtls/library/sha256.c:221:6:mbedtls_sha256_init	0	static
+lib/mbedtls/external/mbedtls/library/sha256.c:226:6:mbedtls_sha256_free	0	static
+lib/mbedtls/external/mbedtls/library/sha256.c:235:6:mbedtls_sha256_clone	16	static
+lib/mbedtls/external/mbedtls/library/sha256.c:244:5:mbedtls_sha256_starts	0	static
+lib/mbedtls/external/mbedtls/library/sha256.c:488:5:mbedtls_internal_sha256_process	384	static
+lib/mbedtls/external/mbedtls/library/sha256.c:641:5:mbedtls_sha256_update	64	static
+lib/mbedtls/external/mbedtls/library/sha256.c:696:5:mbedtls_sha256_finish	64	static
+lib/mbedtls/external/mbedtls/library/sha256.c:769:5:mbedtls_sha256	160	static

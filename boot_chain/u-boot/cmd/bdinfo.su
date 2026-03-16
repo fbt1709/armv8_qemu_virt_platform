@@ -1,0 +1,7 @@
+cmd/bdinfo.c:25:6:bdinfo_print_size	32	static
+cmd/bdinfo.c:31:6:bdinfo_print_str	0	static
+cmd/bdinfo.c:36:6:bdinfo_print_num_l	0	static
+cmd/bdinfo.c:41:6:bdinfo_print_num_ll	0	static
+cmd/bdinfo.c:73:6:bdinfo_print_mhz	64	static
+cmd/bdinfo.c:93:13:arch_print_bdinfo	0	static
+cmd/bdinfo.c:182:5:do_bdinfo	128	static

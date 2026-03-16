@@ -1,0 +1,4 @@
+cmd/smbios.c:129:20:smbios_get_string	32	static
+cmd/smbios.c:175:13:smbios_print_str	32	static
+cmd/smbios.c:180:13:smbios_print_lookup_str	0	static
+cmd/smbios.c:411:12:do_smbios	96	static

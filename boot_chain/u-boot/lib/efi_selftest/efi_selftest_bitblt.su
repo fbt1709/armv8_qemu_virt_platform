@@ -1,0 +1,5 @@
+lib/efi_selftest/efi_selftest_bitblt.c:38:13:ellipse	32	static
+lib/efi_selftest/efi_selftest_bitblt.c:69:20:notify	48	static
+lib/efi_selftest/efi_selftest_bitblt.c:211:12:teardown	32	static
+lib/efi_selftest/efi_selftest_bitblt.c:238:12:execute	112	static
+lib/efi_selftest/efi_selftest_bitblt.c:107:12:setup	144	static

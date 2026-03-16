@@ -1,0 +1,2 @@
+lib/efi_selftest/efi_selftest_rng.c:25:12:setup	0	static
+lib/efi_selftest/efi_selftest_rng.c:40:12:execute	96	static

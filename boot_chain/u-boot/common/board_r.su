@@ -1,0 +1,7 @@
+common/board_r.c:74:12:board_flash_wp_on	0	static
+common/board_r.c:84:12:cpu_secondary_init_r	0	static
+common/board_r.c:119:12:fixup_cpu	0	static
+common/board_r.c:198:12:arch_initr_trap	0	static
+common/board_r.c:308:12:power_init_board	0	static
+common/board_r.c:331:12:is_flash_available	0	static
+common/board_r.c:786:6:board_init_r	64	static

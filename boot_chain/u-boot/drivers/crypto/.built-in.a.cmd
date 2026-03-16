@@ -1,0 +1,1 @@
+cmd_drivers/crypto/built-in.a := rm -f drivers/crypto/built-in.a; aarch64-linux-gnu-ar rcTP drivers/crypto/built-in.a drivers/crypto/aes/built-in.a drivers/crypto/rsa_mod_exp/built-in.a drivers/crypto/fsl/built-in.a drivers/crypto/hash/built-in.a drivers/crypto/aspeed/built-in.a drivers/crypto/nuvoton/built-in.a drivers/crypto/tegra/built-in.a

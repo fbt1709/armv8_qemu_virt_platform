@@ -1,0 +1,4 @@
+lib/mbedtls/sha256.c:25:6:sha256_starts	32	static
+lib/mbedtls/sha256.c:32:1:sha256_update	0	static
+lib/mbedtls/sha256.c:37:6:sha256_finish	32	static
+lib/mbedtls/sha256.c:43:5:sha256_hmac	64	static

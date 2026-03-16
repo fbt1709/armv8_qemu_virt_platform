@@ -1,0 +1,3 @@
+lib/efi_selftest/efi_selftest_startimage_exit.c:124:12:execute	80	static
+lib/efi_selftest/efi_selftest_startimage_exit.c:103:12:teardown	16	static
+lib/efi_selftest/efi_selftest_startimage_exit.c:84:12:setup	80	static

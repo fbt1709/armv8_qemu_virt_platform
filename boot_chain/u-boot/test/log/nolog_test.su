@@ -1,0 +1,8 @@
+test/log/nolog_test.c:22:12:log_test_nolog_err	80	static
+test/log/nolog_test.c:35:12:log_test_nolog_warning	80	static
+test/log/nolog_test.c:48:12:log_test_nolog_notice	80	static
+test/log/nolog_test.c:61:12:log_test_nolog_info	80	static
+test/log/nolog_test.c:103:12:nolog_test_debug	80	static
+test/log/nolog_test.c:116:12:log_test_nolog_debug	80	static
+test/log/nolog_test.c:88:12:log_test_nolog_nodebug	64	static
+test/log/nolog_test.c:76:12:nolog_test_nodebug	64	static

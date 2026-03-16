@@ -1,0 +1,2 @@
+arch/arm/cpu/armv8/sysinfo.c:99:5:sysinfo_get_cache_info	32	static
+arch/arm/cpu/armv8/sysinfo.c:210:5:sysinfo_get_processor_info	0	static

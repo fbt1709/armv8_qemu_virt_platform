@@ -1,0 +1,9 @@
+cmd/blkmap.c:219:1:complete_blkmap	0	static
+cmd/blkmap.c:96:12:do_blkmap_map	80	static
+cmd/blkmap.c:174:12:do_blkmap_get	48	static
+cmd/blkmap.c:207:12:do_blkmap_common	0	static
+cmd/blkmap.c:219:1:do_blkmap	48	static
+cmd/blkmap.c:62:12:do_blkmap_map_mem	48	static
+cmd/blkmap.c:28:12:do_blkmap_map_linear	64	static
+cmd/blkmap.c:146:12:do_blkmap_destroy	32	static
+cmd/blkmap.c:125:12:do_blkmap_create	32	static

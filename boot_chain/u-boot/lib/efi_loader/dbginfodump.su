@@ -1,0 +1,5 @@
+lib/efi_loader/dbginfodump.c:49:13:print	0	static
+lib/efi_loader/dbginfodump.c:59:13:error	32	static
+lib/efi_loader/dbginfodump.c:71:13:printu	64	static
+lib/efi_loader/dbginfodump.c:92:13:printp	64	static
+lib/efi_loader/dbginfodump.c:308:21:efi_main	288	static

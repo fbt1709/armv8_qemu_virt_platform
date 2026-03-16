@@ -1,0 +1,7 @@
+lib/tpm-common.c:15:18:tpm_get_version	16	static
+lib/tpm-common.c:22:5:pack_byte_string	144	static
+lib/tpm-common.c:83:5:unpack_byte_string	144	static
+lib/tpm-common.c:147:5:tpm_command_size	0	static
+lib/tpm-common.c:154:5:tpm_return_code	0	static
+lib/tpm-common.c:161:5:tpm_sendrecv_command	304	static
+lib/tpm-common.c:206:5:tpm_init	0	static

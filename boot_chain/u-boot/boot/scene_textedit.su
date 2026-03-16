@@ -1,0 +1,2 @@
+boot/scene_textedit.c:21:5:scene_texted	64	static
+boot/scene_textedit.c:49:5:scene_txted_set_font	32	static

@@ -1,0 +1,4 @@
+drivers/misc/qfw_mmio.c:75:13:qfw_mmio_read_entry_dma	32	static
+drivers/misc/qfw_mmio.c:36:13:qfw_mmio_read_entry_io	48	static
+drivers/misc/qfw_mmio.c:85:12:qfw_mmio_of_to_plat	32	static
+drivers/misc/qfw_mmio.c:96:12:qfw_mmio_probe	0	static

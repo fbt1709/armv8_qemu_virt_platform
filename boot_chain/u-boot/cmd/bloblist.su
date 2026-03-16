@@ -1,0 +1,4 @@
+cmd/bloblist.c:35:1:complete_bloblist	0	static
+cmd/bloblist.c:23:12:do_bloblist_list	16	static
+cmd/bloblist.c:15:12:do_bloblist_info	16	static
+cmd/bloblist.c:35:1:do_bloblist	48	static

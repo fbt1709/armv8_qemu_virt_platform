@@ -1,0 +1,5 @@
+lib/smbios-parser.c:14:28:smbios_entry	32	static
+lib/smbios-parser.c:49:29:smbios_header	0	static
+lib/smbios-parser.c:85:7:smbios_string	0	static
+lib/smbios-parser.c:93:5:smbios_update_version_full	48	static
+lib/smbios-parser.c:226:6:smbios_prepare_measurement	96	static

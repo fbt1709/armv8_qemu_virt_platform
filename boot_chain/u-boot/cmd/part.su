@@ -1,0 +1,3 @@
+cmd/part.c:55:12:do_part_list	624	static
+cmd/part.c:118:12:do_part_info	720	static
+cmd/part.c:269:12:do_part	224	static

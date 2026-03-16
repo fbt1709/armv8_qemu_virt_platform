@@ -1,0 +1,7 @@
+drivers/mtd/cfi_mtd.c:98:13:cfi_mtd_sync	0	static
+drivers/mtd/cfi_mtd.c:119:12:cfi_mtd_unlock	48	static
+drivers/mtd/cfi_mtd.c:107:12:cfi_mtd_lock	48	static
+drivers/mtd/cfi_mtd.c:79:12:cfi_mtd_write	64	static
+drivers/mtd/cfi_mtd.c:66:12:cfi_mtd_read	32	static
+drivers/mtd/cfi_mtd.c:23:12:cfi_mtd_erase	48	static
+drivers/mtd/cfi_mtd.c:202:5:cfi_mtd_init	160	static

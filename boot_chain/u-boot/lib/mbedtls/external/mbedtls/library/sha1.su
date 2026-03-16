@@ -1,0 +1,8 @@
+lib/mbedtls/external/mbedtls/library/sha1.c:27:6:mbedtls_sha1_init	0	static
+lib/mbedtls/external/mbedtls/library/sha1.c:32:6:mbedtls_sha1_free	0	static
+lib/mbedtls/external/mbedtls/library/sha1.c:41:6:mbedtls_sha1_clone	16	static
+lib/mbedtls/external/mbedtls/library/sha1.c:50:5:mbedtls_sha1_starts	0	static
+lib/mbedtls/external/mbedtls/library/sha1.c:65:5:mbedtls_internal_sha1_process	192	static
+lib/mbedtls/external/mbedtls/library/sha1.c:238:5:mbedtls_sha1_update	64	static
+lib/mbedtls/external/mbedtls/library/sha1.c:291:5:mbedtls_sha1_finish	80	static
+lib/mbedtls/external/mbedtls/library/sha1.c:354:5:mbedtls_sha1	144	static

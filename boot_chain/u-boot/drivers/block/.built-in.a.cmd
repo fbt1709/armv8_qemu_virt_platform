@@ -1,0 +1,1 @@
+cmd_drivers/block/built-in.a := rm -f drivers/block/built-in.a; aarch64-linux-gnu-ar rcTP drivers/block/built-in.a drivers/block/blk-uclass.o drivers/block/blkcache.o drivers/block/blkmap.o drivers/block/blkmap_helper.o

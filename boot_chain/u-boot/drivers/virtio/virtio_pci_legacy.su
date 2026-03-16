@@ -1,0 +1,12 @@
+drivers/virtio/virtio_pci_legacy.c:267:12:virtio_pci_notify	32	static
+drivers/virtio/virtio_pci_legacy.c:165:12:virtio_pci_get_features	32	static
+drivers/virtio/virtio_pci_legacy.c:149:12:virtio_pci_reset	16	static
+drivers/virtio/virtio_pci_legacy.c:128:12:virtio_pci_get_status	32	static
+drivers/virtio/virtio_pci_legacy.c:114:12:virtio_pci_set_config	48	static
+drivers/virtio/virtio_pci_legacy.c:100:12:virtio_pci_get_config	48	static
+drivers/virtio/virtio_pci_legacy.c:240:12:virtio_pci_del_vqs	48	static
+drivers/virtio/virtio_pci_legacy.c:251:12:virtio_pci_find_vqs	80	static
+drivers/virtio/virtio_pci_legacy.c:178:12:virtio_pci_set_features	32	static
+drivers/virtio/virtio_pci_legacy.c:137:12:virtio_pci_set_status	32	static
+drivers/virtio/virtio_pci_legacy.c:292:12:virtio_pci_probe	64	static
+drivers/virtio/virtio_pci_legacy.c:280:12:virtio_pci_bind	64	static

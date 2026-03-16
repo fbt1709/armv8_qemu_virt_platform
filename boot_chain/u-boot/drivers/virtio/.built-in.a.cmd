@@ -1,0 +1,1 @@
+cmd_drivers/virtio/built-in.a := rm -f drivers/virtio/built-in.a; aarch64-linux-gnu-ar rcTP drivers/virtio/built-in.a drivers/virtio/virtio-uclass.o drivers/virtio/virtio_ring.o drivers/virtio/virtio_mmio.o drivers/virtio/virtio_pci_modern.o drivers/virtio/virtio_pci_legacy.o drivers/virtio/virtio_net.o drivers/virtio/virtio_blk.o drivers/virtio/virtio_rng.o

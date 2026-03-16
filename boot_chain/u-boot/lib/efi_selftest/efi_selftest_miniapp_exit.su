@@ -1,0 +1,2 @@
+lib/efi_selftest/efi_selftest_miniapp_exit.c:25:28:check_loaded_image_protocol	48	static
+lib/efi_selftest/efi_selftest_miniapp_exit.c:64:21:efi_main	64	static

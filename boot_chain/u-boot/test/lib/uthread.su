@@ -1,0 +1,4 @@
+test/lib/uthread.c:16:13:worker	48	static
+test/lib/uthread.c:38:12:uthread	64	static
+test/lib/uthread.c:111:12:uthread_mutex	96	static
+test/lib/uthread.c:102:13:mutex_worker	48	static

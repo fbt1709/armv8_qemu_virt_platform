@@ -1,0 +1,4 @@
+lib/efi_selftest/efi_selftest_fdt.c:35:17:f2h	0	static
+lib/efi_selftest/efi_selftest_fdt.c:154:12:setup	32	static
+lib/efi_selftest/efi_selftest_fdt.c:57:14:get_property.constprop	80	static
+lib/efi_selftest/efi_selftest_fdt.c:204:12:execute	32	static

@@ -1,0 +1,10 @@
+lib/efi_loader/efi_http.c:359:28:efi_http_poll	16	static
+lib/efi_loader/efi_http.c:126:28:efi_http_get_mode_data	16	static
+lib/efi_loader/efi_http.c:448:28:efi_http_service_binding_destroy_child	64	static
+lib/efi_loader/efi_http.c:382:28:efi_http_service_binding_create_child	48	static
+lib/efi_loader/efi_http.c:213:28:efi_http_request	1088	static
+lib/efi_loader/efi_http.c:149:28:efi_http_configure	32	static
+lib/efi_loader/efi_http.c:274:28:efi_http_cancel	16	static
+lib/efi_loader/efi_http.c:489:14:efi_http_register	32	static
+lib/efi_loader/efi_http.c:507:27:efi_u32_to_httpstatus	0	static
+lib/efi_loader/efi_http.c:295:28:efi_http_response	48	static

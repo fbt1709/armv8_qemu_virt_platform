@@ -1,0 +1,7 @@
+boot/scene_textline.c:19:5:scene_textline	48	static
+boot/scene_textline.c:47:6:scene_textline_calc_bbox	48	static
+boot/scene_textline.c:62:5:scene_textline_calc_dims	80	static
+boot/scene_textline.c:95:5:scene_textline_arrange	48	static
+boot/scene_textline.c:131:5:scene_textline_send_key	48	static
+boot/scene_textline.c:176:5:scene_textline_render_deps	48	static
+boot/scene_textline.c:213:5:scene_textline_open	48	static

@@ -1,0 +1,2 @@
+lib/efi_selftest/efi_selftest_hii.c:33:12:setup	32	static
+lib/efi_selftest/efi_selftest_hii.c:1027:12:execute	112	static

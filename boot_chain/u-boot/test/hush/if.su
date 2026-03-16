@@ -1,0 +1,9 @@
+test/hush/if.c:25:12:hush_test_if_base	176	static
+test/hush/if.c:39:12:hush_test_if_basic_operators	192	static
+test/hush/if.c:119:12:hush_test_if_octal	192	static
+test/hush/if.c:139:12:hush_test_if_hexadecimal	192	static
+test/hush/if.c:156:12:hush_test_if_mixed	192	static
+test/hush/if.c:203:12:hush_test_if_inverted	192	static
+test/hush/if.c:223:12:hush_test_if_binary	192	static
+test/hush/if.c:255:12:hush_test_if_inverted_binary	192	static
+test/hush/if.c:290:12:hush_test_if_z_operator	208	static

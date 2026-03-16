@@ -1,0 +1,14 @@
+drivers/usb/host/xhci-ring.c:348:12:xhci_td_remainder	0	static
+drivers/usb/host/xhci-ring.c:596:13:record_transfer_result	16	static
+drivers/usb/host/xhci-ring.c:382:13:giveback_first_trb	64	static
+drivers/usb/host/xhci-ring.c:75:13:last_trb_on_last_seg.isra	0	static
+drivers/usb/host/xhci-ring.c:231:12:prepare_ring	48	static
+drivers/usb/host/xhci-ring.c:31:12:xhci_trb_virt_to_dma	0	static
+drivers/usb/host/xhci-ring.c:201:19:queue_trb	80	static
+drivers/usb/host/xhci-ring.c:294:6:xhci_queue_command	80	static
+drivers/usb/host/xhci-ring.c:416:6:xhci_acknowledge_event	16	static
+drivers/usb/host/xhci-ring.c:461:17:xhci_wait_for_event	80	static
+drivers/usb/host/xhci-ring.c:509:13:reset_ep	48	static
+drivers/usb/host/xhci-ring.c:546:13:abort_td	64	static
+drivers/usb/host/xhci-ring.c:634:5:xhci_bulk_tx	160	static
+drivers/usb/host/xhci-ring.c:844:5:xhci_ctrl_tx	128	static

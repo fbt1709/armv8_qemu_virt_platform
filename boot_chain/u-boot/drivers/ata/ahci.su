@@ -1,0 +1,15 @@
+drivers/ata/ahci.c:920:12:ahci_scsi_bus_reset	0	static
+drivers/ata/ahci.c:851:12:ahci_start_ports	96	static
+drivers/ata/ahci.c:519:12:ahci_device_data_io.constprop	96	static
+drivers/ata/ahci.c:648:12:ata_scsiop_read_write	144	static
+drivers/ata/ahci.c:578:12:ata_scsiop_inquiry	656	static
+drivers/ata/ahci.c:810:12:ahci_scsi_exec	96	static
+drivers/ata/ahci.c:56:22:ahci_port_base	0	static
+drivers/ata/ahci.c:109:12:ahci_link_up	32	static
+drivers/ata/ahci.c:139:5:ahci_reset	32	static
+drivers/ata/ahci.c:354:12:ahci_init_one	240	static
+drivers/ata/ahci.c:870:5:ahci_init_one_dm	32	static
+drivers/ata/ahci.c:877:5:ahci_start_ports_dm	16	static
+drivers/ata/ahci.c:927:5:ahci_bind_scsi	48	static
+drivers/ata/ahci.c:940:5:ahci_probe_scsi	64	static
+drivers/ata/ahci.c:977:5:ahci_probe_scsi_pci	48	static

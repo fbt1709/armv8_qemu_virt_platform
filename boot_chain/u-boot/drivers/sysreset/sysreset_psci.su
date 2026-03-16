@@ -1,0 +1,2 @@
+drivers/sysreset/sysreset_psci.c:11:12:psci_sysreset_get_status	0	static
+drivers/sysreset/sysreset_psci.c:16:12:psci_sysreset_request	16	static

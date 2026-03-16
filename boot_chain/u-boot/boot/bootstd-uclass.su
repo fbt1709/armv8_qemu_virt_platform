@@ -1,0 +1,12 @@
+boot/bootstd-uclass.c:44:13:bootstd_clear_glob_	48	static
+boot/bootstd-uclass.c:26:12:bootstd_of_to_plat	32	static
+boot/bootstd-uclass.c:101:12:bootstd_remove	32	static
+boot/bootstd-uclass.c:164:12:bootstd_probe	16	static
+boot/bootstd-uclass.c:112:26:bootstd_get_bootdev_order	48	static
+boot/bootstd-uclass.c:133:26:bootstd_get_prefixes	16	static
+boot/bootstd-uclass.c:140:22:bootstd_try_priv	16	static
+boot/bootstd-uclass.c:80:5:bootstd_clear_bootflows_for_bootdev	64	static
+boot/bootstd-uclass.c:151:5:bootstd_get_priv	48	static
+boot/bootstd-uclass.c:53:6:bootstd_clear_glob	32	static
+boot/bootstd-uclass.c:63:5:bootstd_add_bootflow	48	static
+boot/bootstd-uclass.c:174:5:dm_scan_other	80	static

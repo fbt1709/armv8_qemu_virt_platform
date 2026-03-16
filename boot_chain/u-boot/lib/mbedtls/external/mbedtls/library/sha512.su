@@ -1,0 +1,9 @@
+lib/mbedtls/external/mbedtls/library/sha512.c:213:13:sha512_put_uint64_be	32	static
+lib/mbedtls/external/mbedtls/library/sha512.c:221:6:mbedtls_sha512_init	0	static
+lib/mbedtls/external/mbedtls/library/sha512.c:226:6:mbedtls_sha512_free	0	static
+lib/mbedtls/external/mbedtls/library/sha512.c:235:6:mbedtls_sha512_clone	16	static
+lib/mbedtls/external/mbedtls/library/sha512.c:244:5:mbedtls_sha512_starts	0	static
+lib/mbedtls/external/mbedtls/library/sha512.c:601:5:mbedtls_internal_sha512_process	800	static
+lib/mbedtls/external/mbedtls/library/sha512.c:760:5:mbedtls_sha512_update	64	static
+lib/mbedtls/external/mbedtls/library/sha512.c:814:5:mbedtls_sha512_finish	48	static
+lib/mbedtls/external/mbedtls/library/sha512.c:887:5:mbedtls_sha512	272	static

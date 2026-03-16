@@ -1,0 +1,9 @@
+lib/uthread.c:33:24:uthread_trampoline	32	static
+lib/uthread.c:97:13:uthread_resume	32	static
+lib/uthread.c:57:5:uthread_create	64	static
+lib/uthread.c:105:6:uthread_schedule	48	static
+lib/uthread.c:122:14:uthread_grp_new_id	0	static
+lib/uthread.c:129:6:uthread_grp_done	0	static
+lib/uthread.c:141:5:uthread_mutex_lock	32	static
+lib/uthread.c:150:5:uthread_mutex_trylock	0	static
+lib/uthread.c:160:5:uthread_mutex_unlock	0	static

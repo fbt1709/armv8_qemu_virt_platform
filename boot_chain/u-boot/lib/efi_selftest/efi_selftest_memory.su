@@ -1,0 +1,3 @@
+lib/efi_selftest/efi_selftest_memory.c:57:12:find_in_memory_map	32	static
+lib/efi_selftest/efi_selftest_memory.c:101:12:execute	96	static
+lib/efi_selftest/efi_selftest_memory.c:28:12:setup	64	static

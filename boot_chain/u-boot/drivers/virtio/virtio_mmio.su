@@ -1,0 +1,13 @@
+drivers/virtio/virtio_mmio.c:323:12:virtio_mmio_notify	32	static
+drivers/virtio/virtio_mmio.c:154:12:virtio_mmio_get_features	32	static
+drivers/virtio/virtio_mmio.c:144:12:virtio_mmio_reset	16	static
+drivers/virtio/virtio_mmio.c:123:12:virtio_mmio_get_status	32	static
+drivers/virtio/virtio_mmio.c:111:12:virtio_mmio_generation	32	static
+drivers/virtio/virtio_mmio.c:168:12:virtio_mmio_set_features	32	static
+drivers/virtio/virtio_mmio.c:347:12:virtio_mmio_probe	32	static
+drivers/virtio/virtio_mmio.c:132:12:virtio_mmio_set_status	32	static
+drivers/virtio/virtio_mmio.c:296:12:virtio_mmio_del_vqs	48	static
+drivers/virtio/virtio_mmio.c:307:12:virtio_mmio_find_vqs	96	static
+drivers/virtio/virtio_mmio.c:66:12:virtio_mmio_set_config	64	static
+drivers/virtio/virtio_mmio.c:21:12:virtio_mmio_get_config	64	static
+drivers/virtio/virtio_mmio.c:336:12:virtio_mmio_of_to_plat	32	static

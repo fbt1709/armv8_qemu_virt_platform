@@ -1,0 +1,5 @@
+test/cmd/mem_copy.c:22:12:do_test	368	static
+test/cmd/mem_copy.c:58:12:mem_test_cp_b	48	static
+test/cmd/mem_copy.c:84:12:mem_test_cp_w	48	static
+test/cmd/mem_copy.c:144:12:mem_test_cp_q	48	static
+test/cmd/mem_copy.c:110:12:mem_test_cp_l	64	static

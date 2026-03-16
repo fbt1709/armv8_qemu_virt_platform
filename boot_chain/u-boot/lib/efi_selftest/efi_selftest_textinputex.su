@@ -1,0 +1,4 @@
+lib/efi_selftest/efi_selftest_textinputex.c:35:28:efi_key_notify_function	0	static
+lib/efi_selftest/efi_selftest_textinputex.c:50:12:setup	48	static
+lib/efi_selftest/efi_selftest_textinputex.c:117:12:execute	96	static
+lib/efi_selftest/efi_selftest_textinputex.c:98:12:teardown	16	static

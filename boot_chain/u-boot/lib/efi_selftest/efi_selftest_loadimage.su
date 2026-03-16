@@ -1,0 +1,14 @@
+lib/efi_selftest/efi_selftest_loadimage.c:293:28:efi_st_close	0	static
+lib/efi_selftest/efi_selftest_loadimage.c:305:28:efi_st_delete	0	static
+lib/efi_selftest/efi_selftest_loadimage.c:330:28:efi_st_write	0	static
+lib/efi_selftest/efi_selftest_loadimage.c:339:28:efi_st_getpos	0	static
+lib/efi_selftest/efi_selftest_loadimage.c:349:28:efi_st_setpos	0	static
+lib/efi_selftest/efi_selftest_loadimage.c:390:28:efi_st_setinfo	0	static
+lib/efi_selftest/efi_selftest_loadimage.c:359:28:efi_st_getinfo	32	static
+lib/efi_selftest/efi_selftest_loadimage.c:491:12:teardown	32	static
+lib/efi_selftest/efi_selftest_loadimage.c:530:12:execute	80	static
+lib/efi_selftest/efi_selftest_loadimage.c:265:28:efi_st_open_volume	0	static
+lib/efi_selftest/efi_selftest_loadimage.c:278:28:efi_st_open	0	static
+lib/efi_selftest/efi_selftest_loadimage.c:313:28:efi_st_read	32	static
+lib/efi_selftest/efi_selftest_loadimage.c:455:12:setup	64	static
+lib/efi_selftest/efi_selftest_loadimage.c:400:28:efi_st_flush	0	static

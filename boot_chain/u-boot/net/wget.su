@@ -1,0 +1,8 @@
+net/wget.c:237:12:tcp_stream_rx	64	static
+net/wget.c:273:12:tcp_stream_on_create	0	static
+net/wget.c:249:12:tcp_stream_tx	0	static
+net/wget.c:127:13:tcp_stream_on_rcv_nxt_update	96	static
+net/wget.c:101:13:tcp_stream_on_closed	32	static
+net/wget.c:291:6:wget_start	64	static
+net/wget.c:367:5:wget_do_request	64	static
+net/wget.c:446:6:wget_validate_uri	48	static

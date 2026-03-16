@@ -1,0 +1,2 @@
+test/lib/initjmp.c:29:12:lib_initjmp	160	static
+test/lib/initjmp.c:18:24:entrypoint	16	static

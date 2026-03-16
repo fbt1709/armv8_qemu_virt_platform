@@ -1,0 +1,4 @@
+cmd/qfw.c:96:12:do_qemu_fw	48	static
+cmd/qfw.c:54:12:qemu_fwcfg_do_load	48	static
+cmd/qfw.c:47:12:qemu_fwcfg_do_cpus	16	static
+cmd/qfw.c:38:12:qemu_fwcfg_do_list	64	static

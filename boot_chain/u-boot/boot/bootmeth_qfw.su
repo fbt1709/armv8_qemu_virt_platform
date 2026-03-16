@@ -1,0 +1,5 @@
+boot/bootmeth_qfw.c:54:12:qfw_read_file	0	static
+boot/bootmeth_qfw.c:61:12:qfw_boot	16	static
+boot/bootmeth_qfw.c:31:12:qfw_read_bootflow	48	static
+boot/bootmeth_qfw.c:19:12:qfw_check	16	static
+boot/bootmeth_qfw.c:75:12:qfw_bootmeth_bind	16	static

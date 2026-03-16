@@ -1,0 +1,17 @@
+cmd/efidebug.c:1614:12:do_efidebug	48	static
+cmd/efidebug.c:1508:12:do_efi_test	48	static
+cmd/efidebug.c:1432:12:do_efi_boot_opt	48	static
+cmd/efidebug.c:1539:12:do_efi_query_info	96	static
+cmd/efidebug.c:1465:27:do_efi_test_bootmgr	64	static
+cmd/efidebug.c:670:12:do_efi_show_tables	16	static
+cmd/efidebug.c:612:12:do_efi_show_memmap	96	static
+cmd/efidebug.c:507:12:do_efi_show_images	16	static
+cmd/efidebug.c:527:12:do_efi_show_defaults	16	static
+cmd/efidebug.c:452:12:do_efi_show_handles	112	static
+cmd/efidebug.c:399:12:do_efi_show_drivers	96	static
+cmd/efidebug.c:1039:12:do_efi_boot_rm	112	static
+cmd/efidebug.c:1362:12:do_efi_boot_order	160	static
+cmd/efidebug.c:701:25:create_lo_dp_part	144	static
+cmd/efidebug.c:1313:12:do_efi_boot_next	64	static
+cmd/efidebug.c:1166:12:do_efi_boot_dump	144	static
+cmd/efidebug.c:850:12:do_efi_boot_add	176	static

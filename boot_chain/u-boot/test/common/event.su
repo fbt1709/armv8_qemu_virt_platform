@@ -1,0 +1,5 @@
+test/common/event.c:22:12:h_adder	0	static
+test/common/event.c:32:12:h_adder_simple	0	static
+test/common/event.c:89:12:test_event_probe	0	static
+test/common/event.c:40:12:test_event_base	80	static
+test/common/event.c:58:12:test_event_simple	48	static

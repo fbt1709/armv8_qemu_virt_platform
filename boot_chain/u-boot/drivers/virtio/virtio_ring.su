@@ -1,0 +1,11 @@
+drivers/virtio/virtio_ring.c:201:6:virtqueue_kick	48	static
+drivers/virtio/virtio_ring.c:100:5:virtqueue_add	128	static
+drivers/virtio/virtio_ring.c:237:7:virtqueue_get_buf	64	static
+drivers/virtio/virtio_ring.c:333:19:vring_create_virtqueue	112	static
+drivers/virtio/virtio_ring.c:397:6:vring_del_virtqueue	32	static
+drivers/virtio/virtio_ring.c:407:14:virtqueue_get_vring_size	0	static
+drivers/virtio/virtio_ring.c:412:7:virtqueue_get_desc_addr	0	static
+drivers/virtio/virtio_ring.c:417:7:virtqueue_get_avail_addr	0	static
+drivers/virtio/virtio_ring.c:423:7:virtqueue_get_used_addr	0	static
+drivers/virtio/virtio_ring.c:429:6:virtqueue_poll	32	static
+drivers/virtio/virtio_ring.c:436:6:virtqueue_dump	48	static

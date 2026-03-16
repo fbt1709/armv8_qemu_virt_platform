@@ -1,0 +1,1 @@
+arch/arm/dts/qemu-arm.dtb: arch/arm/dts/.qemu-arm.dtb.dts.tmp

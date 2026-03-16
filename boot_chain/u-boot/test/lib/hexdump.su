@@ -1,0 +1,4 @@
+include/linux/ctype.h:43:29:__tolower	0	static
+test/lib/hexdump.c:12:12:lib_test_hex_to_bin	32	static
+test/lib/hexdump.c:36:12:lib_test_hex2bin	208	static
+test/lib/hexdump.c:65:12:lib_test_bin2hex	64	static

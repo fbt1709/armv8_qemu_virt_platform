@@ -1,0 +1,11 @@
+boot/bootm_os.c:140:12:do_bootm_rtems	32	static
+boot/bootm_os.c:398:12:do_bootm_elf	16	static
+boot/bootm_os.c:500:12:do_bootm_efi	32	static
+boot/bootm_os.c:26:12:do_bootm_standalone	32	static
+boot/bootm_os.c:325:5:do_bootm_vxworks	96	static
+boot/bootm_os.c:360:12:do_bootm_qnxelf	64	static
+boot/bootm_os.c:206:12:do_bootm_plan9	64	static
+boot/bootm_os.c:571:13:arch_preboot_os	0	static
+boot/bootm_os.c:577:13:board_preboot_os	0	static
+boot/bootm_os.c:582:5:boot_selected_os	48	static
+boot/bootm_os.c:600:13:bootm_os_get_boot_func	0	static

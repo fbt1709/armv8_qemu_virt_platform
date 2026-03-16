@@ -1,0 +1,6 @@
+drivers/pci/pcie_ecam_generic.c:64:13:pci_generic_ecam_addr_valid	32	static
+drivers/pci/pcie_ecam_generic.c:151:12:pci_generic_ecam_probe	32	static
+drivers/pci/pcie_ecam_generic.c:43:12:pci_generic_ecam_conf_address	64	static
+drivers/pci/pcie_ecam_generic.c:132:12:pci_generic_ecam_of_to_plat	96	static
+drivers/pci/pcie_ecam_generic.c:111:12:pci_generic_ecam_write_config	64	static
+drivers/pci/pcie_ecam_generic.c:86:12:pci_generic_ecam_read_config	64	static

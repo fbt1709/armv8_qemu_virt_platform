@@ -1,0 +1,14 @@
+common/board_f.c:92:13:board_add_ram_info	0	static
+common/board_f.c:246:12:dram_init_banksize	32	static
+common/board_f.c:299:12:arch_cpu_init	0	static
+common/board_f.c:304:12:mach_cpu_init	0	static
+common/board_f.c:310:20:board_get_usable_ram_top	0	static
+common/board_f.c:327:12:arch_setup_dest_addr	0	static
+common/board_f.c:384:12:arch_reserve_mmu	0	static
+common/board_f.c:594:12:arch_reserve_stacks	0	static
+common/board_f.c:634:12:arch_setup_bdinfo	0	static
+common/board_f.c:639:5:setup_bdinfo	0	static
+common/board_f.c:836:12:reserve_arch	0	static
+common/board_f.c:841:12:checkcpu	0	static
+common/board_f.c:846:12:clear_bss	0	static
+common/board_f.c:1023:6:board_init_f	352	static

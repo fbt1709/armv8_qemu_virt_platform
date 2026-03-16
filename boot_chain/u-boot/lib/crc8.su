@@ -1,0 +1,2 @@
+lib/crc8.c:27:22:crc8	0	static
+lib/crc8.c:37:6:crc8_wd_buf	16	static

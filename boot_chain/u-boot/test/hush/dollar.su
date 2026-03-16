@@ -1,0 +1,3 @@
+test/hush/dollar.c:16:12:hush_test_simple_dollar	80	static
+test/hush/dollar.c:151:12:hush_test_command_dollar	64	static
+test/hush/dollar.c:119:12:hush_test_env_dollar	64	static

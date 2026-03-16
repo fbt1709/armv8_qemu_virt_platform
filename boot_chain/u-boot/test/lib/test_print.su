@@ -1,0 +1,4 @@
+test/lib/test_print.c:17:12:test_print_freq	48	static
+test/lib/test_print.c:28:12:lib_test_print_freq	48	static
+test/lib/test_print.c:43:12:test_print_size	48	static
+test/lib/test_print.c:54:12:lib_test_print_size	48	static

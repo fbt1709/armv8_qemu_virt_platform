@@ -1,0 +1,5 @@
+lib/efi_loader/efi_ipconfig.c:161:28:efi_ip4_config2_register_notify	16	static
+lib/efi_loader/efi_ipconfig.c:95:28:efi_ip4_config2_get_data	48	static
+lib/efi_loader/efi_ipconfig.c:37:28:efi_ip4_config2_set_data	48	static
+lib/efi_loader/efi_ipconfig.c:183:28:efi_ip4_config2_unregister_notify	16	static
+lib/efi_loader/efi_ipconfig.c:196:14:efi_ipconfig_register	32	static

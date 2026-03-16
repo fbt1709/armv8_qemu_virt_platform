@@ -1,0 +1,1 @@
+cmd_test/built-in.a := rm -f test/built-in.a; aarch64-linux-gnu-ar rcTP test/built-in.a test/test-main.o test/cmd/built-in.a test/cmd_ut.o test/dm/built-in.a test/lib/built-in.a test/hush/built-in.a test/ut.o test/boot/built-in.a test/common/built-in.a test/env/built-in.a test/log/built-in.a

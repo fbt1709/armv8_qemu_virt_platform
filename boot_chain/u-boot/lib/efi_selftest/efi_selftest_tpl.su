@@ -1,0 +1,4 @@
+lib/efi_selftest/efi_selftest_tpl.c:24:20:notify	0	static
+lib/efi_selftest/efi_selftest_tpl.c:74:12:teardown	32	static
+lib/efi_selftest/efi_selftest_tpl.c:112:12:execute	80	static
+lib/efi_selftest/efi_selftest_tpl.c:42:12:setup	32	static

@@ -1,0 +1,13 @@
+cmd/bootflow.c:627:1:complete_bootflow	0	static
+cmd/bootflow.c:81:13:show_header	16	static
+cmd/bootflow.c:544:12:do_bootflow_cmdline	48	static
+cmd/bootflow.c:106:27:bootflow_handle_menu	64	static
+cmd/bootflow.c:517:12:do_bootflow_menu	48	static
+cmd/bootflow.c:490:12:do_bootflow_boot	32	static
+cmd/bootflow.c:461:12:do_bootflow_read	32	static
+cmd/bootflow.c:376:12:do_bootflow_info	64	static
+cmd/bootflow.c:309:12:do_bootflow_select	96	static
+cmd/bootflow.c:71:13:show_bootflow	64	static
+cmd/bootflow.c:266:12:do_bootflow_list	64	static
+cmd/bootflow.c:627:1:do_bootflow	48	static
+cmd/bootflow.c:147:12:do_bootflow_scan	560	static

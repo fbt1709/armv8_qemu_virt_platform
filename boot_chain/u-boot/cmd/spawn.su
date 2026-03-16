@@ -1,0 +1,5 @@
+cmd/spawn.c:139:27:wait_job	48	static
+cmd/spawn.c:29:13:spa_free.part.0	32	static
+cmd/spawn.c:98:12:do_spawn	64	static
+cmd/spawn.c:158:12:do_wait	48	static
+cmd/spawn.c:65:13:spawn_thread	48	static

@@ -1,0 +1,4 @@
+lib/mbedtls/md5.c:15:6:MD5Init	32	static
+lib/mbedtls/md5.c:21:6:MD5Update	0	static
+lib/mbedtls/md5.c:26:6:MD5Final	32	static
+lib/mbedtls/md5.c:32:6:md5_wd	144	static

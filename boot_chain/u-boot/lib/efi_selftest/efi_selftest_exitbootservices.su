@@ -1,0 +1,3 @@
+lib/efi_selftest/efi_selftest_exitbootservices.c:48:20:ebs_notify	0	static
+lib/efi_selftest/efi_selftest_exitbootservices.c:68:12:setup	48	static
+lib/efi_selftest/efi_selftest_exitbootservices.c:106:12:execute	32	static

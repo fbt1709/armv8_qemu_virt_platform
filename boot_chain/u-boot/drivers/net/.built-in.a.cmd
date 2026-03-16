@@ -1,0 +1,1 @@
+cmd_drivers/net/built-in.a := rm -f drivers/net/built-in.a; aarch64-linux-gnu-ar rcTP drivers/net/built-in.a drivers/net/e1000.o drivers/net/mscc_eswitch/built-in.a drivers/net/phy/built-in.a drivers/net/qe/built-in.a drivers/net/ti/built-in.a

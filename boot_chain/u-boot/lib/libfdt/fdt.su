@@ -1,0 +1,13 @@
+lib/libfdt/../../scripts/dtc/libfdt/fdt.c:18:9:fdt_ro_probe_	0	static
+lib/libfdt/../../scripts/dtc/libfdt/fdt.c:69:8:fdt_header_size_	0	static
+lib/libfdt/../../scripts/dtc/libfdt/fdt.c:83:8:fdt_header_size	0	static
+lib/libfdt/../../scripts/dtc/libfdt/fdt.c:89:5:fdt_check_header	16	static
+lib/libfdt/../../scripts/dtc/libfdt/fdt.c:140:13:fdt_offset_ptr	0	static
+lib/libfdt/../../scripts/dtc/libfdt/fdt.c:162:10:fdt_next_tag	16	static
+lib/libfdt/../../scripts/dtc/libfdt/fdt.c:223:5:fdt_check_node_offset_	32	static
+lib/libfdt/../../scripts/dtc/libfdt/fdt.c:235:5:fdt_check_prop_offset_	32	static
+lib/libfdt/../../scripts/dtc/libfdt/fdt.c:247:5:fdt_next_node	32	static
+lib/libfdt/../../scripts/dtc/libfdt/fdt.c:287:5:fdt_first_subnode	32	static
+lib/libfdt/../../scripts/dtc/libfdt/fdt.c:298:5:fdt_next_subnode	32	static
+lib/libfdt/../../scripts/dtc/libfdt/fdt.c:315:13:fdt_find_string_len_	48	static
+lib/libfdt/../../scripts/dtc/libfdt/fdt.c:327:5:fdt_move	16	static

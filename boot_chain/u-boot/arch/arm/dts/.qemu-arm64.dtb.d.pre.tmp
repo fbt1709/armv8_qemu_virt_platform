@@ -1,0 +1,5 @@
+.qemu-arm64.dtb.pre.o: arch/arm/dts/.qemu-arm64.dtb.pre.tmp \
+ include/linux/kconfig.h include/generated/autoconf.h \
+ arch/arm/dts/smbios_generic.dtsi include/config.h \
+ include/configs/qemu-arm.h arch/arm/include/asm/config.h \
+ include/linux/kconfig.h include/config_fallbacks.h include/smbios_def.h

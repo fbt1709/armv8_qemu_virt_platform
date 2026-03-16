@@ -1,0 +1,8 @@
+test/test-main.c:221:13:test_matches	64	static
+test/test-main.c:521:12:ut_run_test_live_flat	128	static
+test/test-main.c:67:25:ut_get_state	0	static
+test/test-main.c:72:6:ut_set_state	0	static
+test/test-main.c:77:6:ut_init_state	0	static
+test/test-main.c:82:6:ut_uninit_state	0	static
+test/test-main.c:683:6:ut_report	32	static
+test/test-main.c:701:5:ut_run_list	160	static

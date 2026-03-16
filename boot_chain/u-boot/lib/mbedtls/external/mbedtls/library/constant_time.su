@@ -1,0 +1,3 @@
+lib/mbedtls/external/mbedtls/library/constant_time.c:68:5:mbedtls_ct_memcmp	0	static
+lib/mbedtls/external/mbedtls/library/constant_time.c:170:6:mbedtls_ct_memcpy_if	112	static
+lib/mbedtls/external/mbedtls/library/constant_time.c:215:6:mbedtls_ct_memcpy_offset	80	static

@@ -1,0 +1,7 @@
+lib/uuid.c:41:5:uuid_str_valid	0	static
+lib/uuid.c:304:5:uuid_guid_get_bin	64	static
+lib/uuid.c:318:13:uuid_guid_get_str	48	static
+lib/uuid.c:332:5:uuid_str_to_bin	80	static
+lib/uuid.c:375:5:uuid_str_to_le_bin	48	static
+lib/uuid.c:402:6:uuid_bin_to_str	112	static
+lib/uuid.c:454:6:gen_v5_guid	240	static

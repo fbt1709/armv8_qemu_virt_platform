@@ -1,0 +1,2 @@
+test/common/cread.c:12:12:cli_ch_test	80	static
+test/common/cread.c:56:12:cread_test	80	static

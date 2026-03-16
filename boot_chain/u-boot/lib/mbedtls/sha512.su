@@ -1,0 +1,8 @@
+lib/mbedtls/sha512.c:26:6:sha384_starts	32	static
+lib/mbedtls/sha512.c:33:1:sha384_update	0	static
+lib/mbedtls/sha512.c:44:6:sha384_csum_wd	0	static
+lib/mbedtls/sha512.c:50:6:sha512_starts	32	static
+lib/mbedtls/sha512.c:57:1:sha512_update	0	static
+lib/mbedtls/sha512.c:62:6:sha512_finish	32	static
+lib/mbedtls/sha512.c:38:6:sha384_finish	0	static
+lib/mbedtls/sha512.c:68:6:sha512_csum_wd	272	static

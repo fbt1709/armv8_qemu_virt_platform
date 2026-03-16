@@ -1,0 +1,121 @@
+# 0 "arch/arm/dts/.qemu-arm64.dtb.pre.tmp"
+# 0 "<built-in>"
+# 0 "<command-line>"
+# 1 "././include/linux/kconfig.h" 1
+
+
+
+# 1 "include/generated/autoconf.h" 1
+# 5 "././include/linux/kconfig.h" 2
+# 0 "<command-line>" 2
+# 1 "arch/arm/dts/.qemu-arm64.dtb.pre.tmp"
+
+
+
+
+
+
+
+/dts-v1/;
+
+
+# 1 "arch/arm/dts/smbios_generic.dtsi" 1
+
+
+
+
+
+
+
+# 1 "include/config.h" 1
+
+
+# 1 "include/configs/qemu-arm.h" 1
+# 4 "include/config.h" 2
+# 1 "./arch/arm/include/asm/config.h" 1
+# 5 "include/config.h" 2
+# 1 "include/linux/kconfig.h" 1
+# 6 "include/config.h" 2
+# 1 "include/config_fallbacks.h" 1
+# 7 "include/config.h" 2
+# 9 "arch/arm/dts/smbios_generic.dtsi" 2
+# 1 "include/smbios_def.h" 1
+# 10 "arch/arm/dts/smbios_generic.dtsi" 2
+
+/ {
+ smbios {
+  compatible = "u-boot,sysinfo-smbios";
+
+  smbios {
+   system {
+    manufacturer = "emulation";
+    product = "qemu-arm";
+    version = "";
+    serial = "";
+    wakeup-type = <2>;
+    sku = "";
+    family = "armv8";
+   };
+
+   baseboard {
+    manufacturer = "emulation";
+    product = "qemu-arm";
+    version = "";
+    serial = "";
+    asset-tag = "";
+    chassis-location = "";
+    feature-flags = <1>;
+    board-type = <10>;
+   };
+
+   chassis {
+    manufacturer = "emulation";
+    version = "";
+    serial = "";
+    asset-tag = "";
+    chassis-type = <3>;
+    bootup-state = <3>;
+    power-supply-state = <3>;
+    thermal-state = <3>;
+    security-status = <3>;
+    oem-defined = <0>;
+    height = <0>;
+    number-of-power-cords = <0>;
+   };
+
+   processor {
+    version = "";
+    processor-type = <3>;
+    processor-status = <1>;
+    upgrade = <6>;
+    family = <0xfe>;
+    family2 = <257>;
+    socket-design = "";
+    serial = "";
+    asset-tag = "";
+    part-number = "";
+   };
+
+   cache {
+    l1-cache {
+     socket-design = "";
+     config = <(0 |
+         0x80 |
+         0x100)>;
+    };
+
+    l2-cache {
+     socket-design = "";
+     config = <(1 |
+         0x80 |
+         0x100)>;
+    };
+   };
+  };
+ };
+};
+# 12 "arch/arm/dts/.qemu-arm64.dtb.pre.tmp" 2
+
+
+/ {
+};

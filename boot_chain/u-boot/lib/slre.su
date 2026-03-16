@@ -1,0 +1,13 @@
+lib/slre.c:179:1:emit	0	static
+lib/slre.c:188:1:store_char_in_data	0	static
+lib/slre.c:210:1:get_escape_char	0	static
+lib/slre.c:479:1:is_any_of	0	static
+lib/slre.c:291:1:relocate	32	static
+lib/slre.c:536:1:match	112	static
+lib/slre.c:448:1:loop_greedy	96	static
+lib/slre.c:465:1:loop_non_greedy	80	static
+lib/slre.c:323:1:fixup_branch.part.0	16	static
+lib/slre.c:299:1:quantifier	48	static
+lib/slre.c:332:1:compile	80	static
+lib/slre.c:423:1:slre_compile	48	static
+lib/slre.c:680:1:slre_match	80	static

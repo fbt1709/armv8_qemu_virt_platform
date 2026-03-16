@@ -1,0 +1,2 @@
+drivers/nvme/nvme-uclass.c:15:12:nvme_bootdev_bind	16	static
+drivers/nvme/nvme-uclass.c:24:12:nvme_bootdev_hunt	16	static

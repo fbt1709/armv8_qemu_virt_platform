@@ -1,0 +1,2 @@
+cmd/nvedit_efi.c:206:5:do_env_print_efi	240	static
+cmd/nvedit_efi.c:375:5:do_env_set_efi	192	static

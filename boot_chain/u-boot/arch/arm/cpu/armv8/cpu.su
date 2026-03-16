@@ -1,0 +1,4 @@
+arch/arm/cpu/armv8/cpu.c:29:6:sdelay	0	static
+arch/arm/cpu/armv8/cpu.c:35:13:board_cleanup_before_linux	0	static
+arch/arm/cpu/armv8/cpu.c:37:5:cleanup_before_linux	16	static
+arch/arm/cpu/armv8/cpu.c:98:6:allow_unaligned	0	static

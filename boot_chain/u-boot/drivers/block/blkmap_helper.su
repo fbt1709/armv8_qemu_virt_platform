@@ -1,0 +1,1 @@
+drivers/block/blkmap_helper.c:13:5:blkmap_create_ramdisk	80	static

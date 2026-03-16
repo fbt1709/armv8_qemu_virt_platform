@@ -1,0 +1,15 @@
+drivers/serial/serial_pl01x.c:38:12:pl01x_putc	0	static
+drivers/serial/serial_pl01x.c:277:12:pl01x_serial_getinfo	32	static
+drivers/serial/serial_pl01x.c:337:5:pl01x_serial_getc	16	static
+drivers/serial/serial_pl01x.c:344:5:pl01x_serial_putc	32	static
+drivers/serial/serial_pl01x.c:351:5:pl01x_serial_pending	32	static
+drivers/serial/serial_pl01x.c:381:5:pl01x_serial_of_to_plat	32	static
+drivers/serial/serial_pl01x.c:298:5:pl01x_serial_setbrg	48	static
+drivers/serial/serial_pl01x.c:311:5:pl01x_serial_probe	32	static
+drivers/serial/serial_pl01x.c:463:1:printch	16	static
+drivers/serial/serial_pl01x.c:463:1:printascii	16	static
+drivers/serial/serial_pl01x.c:463:1:printhex2	16	static
+drivers/serial/serial_pl01x.c:463:1:printhex4	16	static
+drivers/serial/serial_pl01x.c:463:1:printhex8	16	static
+drivers/serial/serial_pl01x.c:463:1:printdec	48	static
+drivers/serial/serial_pl01x.c:463:1:debug_uart_init	0	static

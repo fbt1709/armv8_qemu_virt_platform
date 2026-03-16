@@ -1,0 +1,16 @@
+cmd/tpm-common.c:256:12:tpm_set_device	48	static
+cmd/tpm-common.c:24:6:print_byte_string	64	static
+cmd/tpm-common.c:51:7:parse_byte_string	96	static
+cmd/tpm-common.c:86:5:report_return_code	16	static
+cmd/tpm-common.c:102:5:type_string_get_num_values	16	static
+cmd/tpm-common.c:114:8:type_string_get_space_size	0	static
+cmd/tpm-common.c:145:7:type_string_alloc	32	static
+cmd/tpm-common.c:169:5:type_string_pack	64	static
+cmd/tpm-common.c:207:5:type_string_write_vars	64	static
+cmd/tpm-common.c:277:5:get_tpm	32	static
+cmd/tpm-common.c:299:5:do_tpm_device	144	static
+cmd/tpm-common.c:317:5:do_tpm_info	128	static
+cmd/tpm-common.c:336:5:do_tpm_report_state	128	static
+cmd/tpm-common.c:356:5:do_tpm_init	32	static
+cmd/tpm-common.c:370:5:do_tpm_autostart	32	static
+cmd/tpm-common.c:385:5:do_tpm	64	static

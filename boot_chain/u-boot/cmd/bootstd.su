@@ -1,0 +1,3 @@
+cmd/bootstd.c:64:1:complete_bootstd	0	static
+cmd/bootstd.c:18:12:do_bootstd_images	112	static
+cmd/bootstd.c:64:1:do_bootstd	48	static

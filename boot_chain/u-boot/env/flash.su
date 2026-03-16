@@ -1,0 +1,3 @@
+env/flash.c:222:12:env_flash_init	32	static
+env/flash.c:236:12:env_flash_save	262176	static
+env/flash.c:306:12:env_flash_load	0	static

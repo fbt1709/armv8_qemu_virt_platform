@@ -1,0 +1,1 @@
+board/emulation/common/qemu_dfu.c:41:6:set_dfu_alt_info	1120	static

@@ -1,0 +1,3 @@
+lib/efi_selftest/efi_selftest_tcg2.c:951:12:efi_st_tcg2_teardown	64	static
+lib/efi_selftest/efi_selftest_tcg2.c:816:12:efi_st_tcg2_execute	288	static
+lib/efi_selftest/efi_selftest_tcg2.c:610:12:efi_st_tcg2_setup	128	static

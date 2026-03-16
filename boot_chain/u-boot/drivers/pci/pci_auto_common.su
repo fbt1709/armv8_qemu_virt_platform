@@ -1,0 +1,4 @@
+drivers/pci/pci_auto_common.c:19:6:pciauto_region_init	0	static
+drivers/pci/pci_auto_common.c:30:6:pciauto_region_align	0	static
+drivers/pci/pci_auto_common.c:35:5:pciauto_region_allocate	0	static
+drivers/pci/pci_auto_common.c:83:6:pciauto_config_init	0	static

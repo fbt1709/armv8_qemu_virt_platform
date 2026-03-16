@@ -1,0 +1,8 @@
+drivers/sysinfo/smbios.c:70:12:sysinfo_plat_detect	0	static
+drivers/sysinfo/smbios.c:154:12:sysinfo_plat_get_data	48	static
+drivers/sysinfo/smbios.c:97:12:sysinfo_plat_get_int	32	static
+drivers/sysinfo/smbios.c:75:12:sysinfo_plat_get_str	48	static
+drivers/sysinfo/smbios.c:49:12:sysinfo_get_cache_info	0	static
+drivers/sysinfo/smbios.c:54:12:sysinfo_get_processor_info	0	static
+drivers/sysinfo/smbios.c:174:12:sysinfo_plat_probe	96	static
+drivers/sysinfo/smbios.c:59:6:sysinfo_cache_info_default	32	static

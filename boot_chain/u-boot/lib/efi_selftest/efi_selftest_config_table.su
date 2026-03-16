@@ -1,0 +1,4 @@
+lib/efi_selftest/efi_selftest_config_table.c:28:20:notify	0	static
+lib/efi_selftest/efi_selftest_config_table.c:73:12:setup	0	static
+lib/efi_selftest/efi_selftest_config_table.c:39:12:check_table	48	static
+lib/efi_selftest/efi_selftest_config_table.c:90:12:execute	144	static

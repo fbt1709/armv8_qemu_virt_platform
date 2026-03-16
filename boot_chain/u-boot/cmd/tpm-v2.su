@@ -1,0 +1,13 @@
+cmd/tpm-v2.c:460:12:do_tpm_pcr_setauthvalue	80	static
+cmd/tpm-v2.c:436:12:do_tpm_pcr_setauthpolicy	80	static
+cmd/tpm-v2.c:400:12:do_tpm_change_auth	80	static
+cmd/tpm-v2.c:356:12:do_tpm_dam_parameters	80	static
+cmd/tpm-v2.c:335:12:do_tpm_dam_reset	64	static
+cmd/tpm-v2.c:192:12:do_tpm_get_capability	112	static
+cmd/tpm-v2.c:144:12:do_tpm_pcr_read	80	static
+cmd/tpm-v2.c:100:12:do_tpm2_pcr_extend	80	static
+cmd/tpm-v2.c:71:12:do_tpm2_clear	64	static
+cmd/tpm-v2.c:46:12:do_tpm2_self_test	48	static
+cmd/tpm-v2.c:15:12:do_tpm2_startup	48	static
+cmd/tpm-v2.c:267:12:do_tpm2_pcrallocate	112	static
+cmd/tpm-v2.c:507:17:get_tpm2_commands	0	static

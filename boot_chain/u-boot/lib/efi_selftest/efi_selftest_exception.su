@@ -1,0 +1,2 @@
+lib/efi_selftest/efi_selftest_exception.c:123:12:execute	64	static
+lib/efi_selftest/efi_selftest_exception.c:104:12:setup	64	static

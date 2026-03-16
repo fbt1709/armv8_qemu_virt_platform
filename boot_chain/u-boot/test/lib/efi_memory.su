@@ -1,0 +1,2 @@
+test/lib/efi_memory.c:13:12:lib_test_efi_alloc_aligned_pages	48	static
+test/lib/efi_memory.c:47:12:lib_test_efi_allocate_pages	64	static

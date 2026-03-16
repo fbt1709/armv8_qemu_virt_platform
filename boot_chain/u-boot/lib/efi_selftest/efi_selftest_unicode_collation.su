@@ -1,0 +1,2 @@
+lib/efi_selftest/efi_selftest_unicode_collation.c:26:12:setup	32	static
+lib/efi_selftest/efi_selftest_unicode_collation.c:243:12:execute	112	static

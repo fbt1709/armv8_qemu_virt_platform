@@ -1,0 +1,2 @@
+test/common/cyclic.c:20:13:test_cb	0	static
+test/common/cyclic.c:26:12:dm_test_cyclic_running	48	static

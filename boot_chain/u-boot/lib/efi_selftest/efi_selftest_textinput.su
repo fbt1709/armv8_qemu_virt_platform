@@ -1,0 +1,2 @@
+lib/efi_selftest/efi_selftest_textinput.c:26:12:setup	0	static
+lib/efi_selftest/efi_selftest_textinput.c:39:12:execute	80	static

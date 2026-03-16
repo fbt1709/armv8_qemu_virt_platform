@@ -1,0 +1,7 @@
+lib/efi_selftest/efi_selftest_block_device.c:66:28:reset	0	static
+lib/efi_selftest/efi_selftest_block_device.c:83:28:read_blocks	16	static
+lib/efi_selftest/efi_selftest_block_device.c:108:28:write_blocks	16	static
+lib/efi_selftest/efi_selftest_block_device.c:129:28:flush_blocks	0	static
+lib/efi_selftest/efi_selftest_block_device.c:249:12:teardown	32	static
+lib/efi_selftest/efi_selftest_block_device.c:189:12:setup	80	static
+lib/efi_selftest/efi_selftest_block_device.c:301:12:execute	1264	static

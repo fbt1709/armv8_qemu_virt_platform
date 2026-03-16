@@ -1,0 +1,11 @@
+cmd_tools/proftool.o := cc -Wp,-MMD,tools/.proftool.o.d -Wall -Wstrict-prototypes -O2 -fomit-frame-pointer -std=gnu11      -DCONFIG_FIT_SIGNATURE -DCONFIG_FIT_SIGNATURE_MAX_SIZE=0xffffffff -DCONFIG_FIT_CIPHER -include ./include/compiler.h -idirafterinclude -idirafter./lib/mbedtls -idirafter./lib/mbedtls/port -idirafter./lib/mbedtls/external/mbedtls -idirafter./lib/mbedtls/external/mbedtls/include -idirafter./arch/arm/include -idirafter./dts/upstream/include -I./scripts/dtc/libfdt -I./tools -DUSE_HOSTCC -D__KERNEL_STRICT_NAMES -D_GNU_SOURCE  -c -o tools/proftool.o tools/proftool.c
+
+source_tools/proftool.o := tools/proftool.c
+
+deps_tools/proftool.o := \
+    $(wildcard include/config/text/base.h) \
+  include/compiler.h \
+
+tools/proftool.o: $(deps_tools/proftool.o)
+
+$(deps_tools/proftool.o):

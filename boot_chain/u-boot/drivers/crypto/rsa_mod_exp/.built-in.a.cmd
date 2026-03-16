@@ -1,0 +1,1 @@
+cmd_drivers/crypto/rsa_mod_exp/built-in.a := rm -f drivers/crypto/rsa_mod_exp/built-in.a; aarch64-linux-gnu-ar rcTP drivers/crypto/rsa_mod_exp/built-in.a drivers/crypto/rsa_mod_exp/mod_exp_uclass.o drivers/crypto/rsa_mod_exp/mod_exp_sw.o

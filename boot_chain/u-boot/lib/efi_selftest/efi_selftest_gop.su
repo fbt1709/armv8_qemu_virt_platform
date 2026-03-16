@@ -1,0 +1,3 @@
+lib/efi_selftest/efi_selftest_gop.c:44:12:teardown	0	static
+lib/efi_selftest/efi_selftest_gop.c:54:12:execute	64	static
+lib/efi_selftest/efi_selftest_gop.c:23:12:setup	32	static

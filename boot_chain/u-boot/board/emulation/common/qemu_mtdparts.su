@@ -1,0 +1,1 @@
+board/emulation/common/qemu_mtdparts.c:35:6:board_mtdparts_default	64	static

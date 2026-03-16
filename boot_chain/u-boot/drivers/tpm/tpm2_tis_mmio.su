@@ -1,0 +1,6 @@
+drivers/tpm/tpm2_tis_mmio.c:117:12:tpm_tis_remove	32	static
+drivers/tpm/tpm2_tis_mmio.c:64:12:mmio_write32	32	static
+drivers/tpm/tpm2_tis_mmio.c:55:12:mmio_read32	32	static
+drivers/tpm/tpm2_tis_mmio.c:44:12:mmio_write_bytes	48	static
+drivers/tpm/tpm2_tis_mmio.c:33:12:mmio_read_bytes	48	static
+drivers/tpm/tpm2_tis_mmio.c:80:12:tpm_tis_probe	64	static

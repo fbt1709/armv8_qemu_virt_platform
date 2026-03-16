@@ -1,0 +1,16 @@
+drivers/tpm/tpm2_tis_core.c:37:13:tpm_tis_check_locality	64	static
+drivers/tpm/tpm2_tis_core.c:208:12:tpm_tis_ready	48	static
+drivers/tpm/tpm2_tis_core.c:172:12:tpm_tis_get_burstcount	80	static
+drivers/tpm/tpm2_tis_core.c:92:12:tpm_tis_status	32	static
+drivers/tpm/tpm2_tis_core.c:144:12:tpm_tis_wait_for_stat	64	static
+drivers/tpm/tpm2_tis_core.c:301:12:tpm_tis_recv_data	112	static
+drivers/tpm/tpm2_tis_core.c:15:5:tpm_tis_get_desc	48	static
+drivers/tpm/tpm2_tis_core.c:62:5:tpm_tis_request_locality	64	static
+drivers/tpm/tpm2_tis_core.c:118:5:tpm_tis_release_locality	64	static
+drivers/tpm/tpm2_tis_core.c:218:5:tpm_tis_send	112	static
+drivers/tpm/tpm2_tis_core.c:337:5:tpm_tis_recv	64	static
+drivers/tpm/tpm2_tis_core.c:375:5:tpm_tis_cleanup	48	static
+drivers/tpm/tpm2_tis_core.c:391:5:tpm_tis_open	32	static
+drivers/tpm/tpm2_tis_core.c:406:6:tpm_tis_ops_register	32	static
+drivers/tpm/tpm2_tis_core.c:444:5:tpm_tis_init	96	static
+drivers/tpm/tpm2_tis_core.c:484:5:tpm_tis_close	32	static

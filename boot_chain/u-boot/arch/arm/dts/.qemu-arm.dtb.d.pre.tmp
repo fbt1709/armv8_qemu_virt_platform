@@ -1,0 +1,2 @@
+.qemu-arm.dtb.pre.o: arch/arm/dts/.qemu-arm.dtb.pre.tmp \
+ include/linux/kconfig.h include/generated/autoconf.h

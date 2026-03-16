@@ -1,0 +1,10 @@
+common/menu.c:440:12:bootmenu_conv_shortcut_key.isra	0	static
+common/menu.c:176:5:menu_default_choice	0	static
+common/menu.c:248:5:menu_default_set	64	static
+common/menu.c:280:5:menu_get_choice	1088	static
+common/menu.c:312:5:menu_item_add	80	static
+common/menu.c:380:14:menu_create	96	static
+common/menu.c:425:5:menu_destroy	48	static
+common/menu.c:463:19:bootmenu_autoboot_loop	80	static
+common/menu.c:527:19:bootmenu_conv_key	0	static
+common/menu.c:567:19:bootmenu_loop	32	static

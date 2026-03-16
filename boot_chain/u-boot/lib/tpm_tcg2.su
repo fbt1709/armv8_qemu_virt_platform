@@ -1,0 +1,16 @@
+lib/tpm_tcg2.c:75:5:tcg2_event_get_size	48	static
+lib/tpm_tcg2.c:95:5:tcg2_create_digest	560	static
+lib/tpm_tcg2.c:170:6:tcg2_log_append	112	static
+lib/tpm_tcg2.c:489:5:tcg2_pcr_extend	80	static
+lib/tpm_tcg2.c:511:5:tcg2_pcr_read	96	static
+lib/tpm_tcg2.c:538:5:tcg2_measure_data	1152	static
+lib/tpm_tcg2.c:651:6:tcg2_measurement_term	64	static
+lib/tpm_tcg2.c:665:12:tcg2_platform_get_log	144	static
+lib/tpm_tcg2.c:727:12:tcg2_platform_get_tpm2	32	static
+lib/tpm_tcg2.c:737:5:tcg2_algorithm_to_mask	0	static
+lib/tpm_tcg2.c:25:5:tcg2_get_pcr_info	256	static
+lib/tpm_tcg2.c:59:5:tcg2_get_active_pcr_banks	48	static
+lib/tpm_tcg2.c:370:12:tcg2_log_parse.constprop	1248	static
+lib/tpm_tcg2.c:560:5:tcg2_log_prepare_buffer	128	static
+lib/tpm_tcg2.c:621:5:tcg2_measurement_init	48	static
+lib/tpm_tcg2.c:749:13:tcg2_platform_startup_error	0	static

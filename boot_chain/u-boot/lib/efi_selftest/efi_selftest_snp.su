@@ -1,0 +1,4 @@
+lib/efi_selftest/efi_selftest_snp.c:426:12:teardown	48	static
+lib/efi_selftest/efi_selftest_snp.c:179:12:setup	32	static
+lib/efi_selftest/efi_selftest_snp.c:100:21:send_dhcp_discover	448	static
+lib/efi_selftest/efi_selftest_snp.c:286:12:execute	1696	static

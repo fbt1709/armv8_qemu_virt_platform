@@ -1,0 +1,1 @@
+cmd_drivers/pci/built-in.a := rm -f drivers/pci/built-in.a; aarch64-linux-gnu-ar rcTP drivers/pci/built-in.a drivers/pci/pci_rom.o drivers/pci/pci-uclass.o drivers/pci/pci_auto.o drivers/pci/pci_auto_common.o drivers/pci/pci_common.o drivers/pci/pcie_ecam_generic.o

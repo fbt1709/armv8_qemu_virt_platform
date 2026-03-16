@@ -1,0 +1,3 @@
+test/hush/loop.c:16:12:hush_test_for	48	static
+test/hush/loop.c:36:12:hush_test_while	48	static
+test/hush/loop.c:67:12:hush_test_until	64	static

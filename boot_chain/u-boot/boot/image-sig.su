@@ -1,0 +1,3 @@
+boot/image-sig.c:58:23:image_get_checksum_algo	48	static
+boot/image-sig.c:74:21:image_get_crypto_algo	48	static
+boot/image-sig.c:96:22:image_get_padding_algo	48	static

@@ -1,0 +1,9 @@
+lib/efi_loader/efi_hii_config.c:121:1:form_callback	16	static
+lib/efi_loader/efi_hii_config.c:80:1:get_alt_config	16	static
+lib/efi_loader/efi_hii_config.c:67:1:config_to_block	16	static
+lib/efi_loader/efi_hii_config.c:53:1:block_to_config	16	static
+lib/efi_loader/efi_hii_config.c:43:1:route_config	16	static
+lib/efi_loader/efi_hii_config.c:34:1:export_config	16	static
+lib/efi_loader/efi_hii_config.c:23:1:extract_config	16	static
+lib/efi_loader/efi_hii_config.c:100:1:extract_config_access	16	static
+lib/efi_loader/efi_hii_config.c:111:1:route_config_access	16	static
